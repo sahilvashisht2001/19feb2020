@@ -1,3 +1,4 @@
-module.exports.log = function (msg) { 
+module.exports = function (msg) { 
     console.log(msg);
 };
+
